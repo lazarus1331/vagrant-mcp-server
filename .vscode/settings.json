@@ -1,0 +1,10 @@
+{
+    "chat.mcp.serverSampling": {
+        "vagrant-mcp-server/.vscode/mcp.json: vagrant": {
+            "allowedModels": [
+                "copilot/gpt-4.1",
+                "copilot/claude-3.5-sonnet"
+            ]
+        }
+    }
+}
