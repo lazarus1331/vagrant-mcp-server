@@ -164,4 +164,4 @@ Feel free to extend this server with additional Vagrant commands or improve erro
 
 ## License
 
-???
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
